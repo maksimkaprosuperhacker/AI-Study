@@ -2,7 +2,7 @@
 
 A mobile app that turns any uploaded course material into a test, a summary, or a glossary of key terms — generated on the fly by GPT. Backend: [Srver_Ai_Study](https://github.com/maksimkaprosuperhacker/Srver_Ai_Study).
 
-🥇 **1st place, City Project Competition — 250,000 ₸.** One of my earliest projects.
+**1st place, City Project Competition — 250,000 ₸.** One of my earliest projects.
 
 ## Features
 
